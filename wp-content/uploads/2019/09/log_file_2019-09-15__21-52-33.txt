@@ -1,0 +1,29 @@
+
+---Downloaded files---
+The import files for: Import Architecture were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/contents.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/widgets.wie
+Customizer file = not defined!
+Redux files:
+jws_option -> C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/redux.json 
+
+
+---Importing widgets---
+sidebar-single-blog : Sidebar does not exist in theme (moving widget to Inactive)
+
+Gallery - GALLERY IMAGES - Widget already exists
+Categories - CATEGORIES - Widget already exists
+Tag Cloud - TAGS - Widget already exists
+Text - ABOUT AUTHOR - Widget already exists
+Text - QUICK LINKS - Widget already exists
+
+
+
+---Importing Redux settings---
+The Redux option name: jws_option, was not found in this WP site, so it was not imported!
+
+---pt-ocdi/after_import---
+ Slider processed

@@ -1,0 +1,24 @@
+{
+  "name": "fla-",
+  "css_prefix_text": "icon-dd",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ab1bf4a794f3e12ae3af1872efc27d04",
+      "css": "right-arrow",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M673.4 159C659.8 144.9 637.1 144.9 623 159 609.4 172.6 609.4 195.3 623 208.9L878.5 464.4H35.3C15.6 464.5 0 480.1 0 499.7 0 519.4 15.6 535.5 35.3 535.5H878.5L623 790.6C609.4 804.7 609.4 827.4 623 841 637.1 855.1 659.8 855.1 673.4 841L989.4 525C1003.5 511.3 1003.5 488.7 989.4 475.1L673.4 159Z",
+        "width": 1000
+      },
+      "search": [
+        "right-arrow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1277 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Consbie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-13 04:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. %d: ID of a post
+#: inc/jws_walker_page.php:82
+#, php-format
+msgid "#%d (no title)"
+msgstr ""
+
+#: inc/template-functions.php:87
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-functions.php:183
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:33
+#, php-format
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/template-functions.php:182
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: inc/custom_menu.php:128
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/custom_menu.php:132
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/single/blogs/layout1.php:66
+#: template-parts/single/blogs/layout2.php:66
+msgid "%title"
+msgstr ""
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: redux-framework/option.php:549
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: redux-framework/option.php:244
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux-framework/option.php:233 redux-framework/option.php:238
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/widget_post_thumbnail.php:18
+msgid "@JWS Post Thumbnail"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:108
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:7
+#: inc/vc_shortcode/backend/file/account.php:113
+#: inc/vc_shortcode/backend/file/account.php:128
+#: inc/vc_shortcode/backend/file/account.php:144
+#: inc/vc_shortcode/backend/file/account.php:156
+msgid "Account"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+msgid "Add a review"
+msgstr ""
+
+#: inc/custom_menu.php:315
+msgid "Add Icon Menu "
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:34
+msgid "Add Images"
+msgstr ""
+
+#: cmb2/meta_option.php:27
+msgid "Add Info Item"
+msgstr ""
+
+#: inc/post_type/team.php:15 inc/post_type/services.php:15
+#: inc/post_type/studies.php:15
+msgid "Add New"
+msgstr ""
+
+#: inc/post_type/team.php:70 inc/post_type/services.php:70
+#: inc/post_type/studies.php:70
+msgid "Add New Category"
+msgstr ""
+
+#: inc/post_type/team.php:14 inc/post_type/services.php:14
+#: inc/post_type/studies.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: inc/post_type/team.php:101 inc/post_type/services.php:101
+#: inc/post_type/studies.php:101
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/post_type/team.php:72 inc/post_type/services.php:72
+#: inc/post_type/studies.php:72
+msgid "Add or remove Categories"
+msgstr ""
+
+#: inc/post_type/team.php:104 inc/post_type/services.php:104
+#: inc/post_type/studies.php:104
+msgid "Add or remove tags"
+msgstr ""
+
+#: inc/custom_menu.php:239
+msgid "Add Shortcode for mega menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Add widgets here to appear in your blog single."
+msgstr ""
+
+#: inc/custom_menu.php:298
+msgid "Add Width Mega Menu "
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:296
+#: inc/vc_shortcode/backend/file/account.php:304
+msgid "Align"
+msgstr ""
+
+#: inc/post_type/team.php:12 inc/post_type/services.php:12
+#: inc/post_type/studies.php:12
+msgid "All Items"
+msgstr ""
+
+#: inc/post_type/services.php:65
+msgid "All services Categories"
+msgstr ""
+
+#: inc/post_type/studies.php:65
+msgid "All studies Categories"
+msgstr ""
+
+#: inc/post_type/team.php:96 inc/post_type/services.php:96
+#: inc/post_type/studies.php:96
+msgid "All Tags"
+msgstr ""
+
+#: inc/post_type/team.php:65
+msgid "All teams Categories"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:88
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: redux-framework/option.php:385
+msgid "Body Font"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:10
+msgid "consbie Header"
+msgstr ""
+
+#: functions.php:76
+msgid "consbie Sidebar"
+msgstr ""
+
+#: redux-framework/option.php:309
+msgid "Button Hover"
+msgstr ""
+
+#: redux-framework/option.php:308
+msgid "Button hover background."
+msgstr ""
+
+#: template-parts/single/blogs/layout1.php:17
+#: template-parts/single/blogs/layout2.php:17
+msgid "BY "
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:127
+msgid "By "
+msgstr ""
+
+#: inc/custom_menu.php:343
+msgid "Cancel"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:178
+#: inc/vc_shortcode/backend/file/account.php:193
+#: inc/vc_shortcode/backend/file/account.php:209
+msgid "Cart"
+msgstr ""
+
+#: inc/post_type/team.php:74 inc/post_type/services.php:74
+#: inc/post_type/studies.php:74
+msgid "Category"
+msgstr ""
+
+#: inc/custom_menu.php:283
+msgid "Center"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:58
+#: inc/vc_shortcode/backend/file/account.php:112
+#: inc/vc_shortcode/backend/file/account.php:177
+#: inc/vc_shortcode/backend/file/account.php:230
+msgid "Choose font family for icon"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:50
+msgid "Choose font icon"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:104
+#: inc/vc_shortcode/backend/file/account.php:169
+#: inc/vc_shortcode/backend/file/account.php:222
+msgid "Choose font icon family"
+msgstr ""
+
+#: inc/post_type/team.php:73 inc/post_type/services.php:73
+#: inc/post_type/studies.php:73
+msgid "Choose from most used text-domain"
+msgstr ""
+
+#: inc/post_type/team.php:105 inc/post_type/services.php:105
+#: inc/post_type/studies.php:105
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:283
+msgid "Choose Menu Location"
+msgstr ""
+
+#: redux-framework/option.php:294
+msgid "Color"
+msgstr ""
+
+#: redux-framework/option.php:287
+msgid "Color Styling"
+msgstr ""
+
+#: redux-framework/option.php:316
+msgid "Color Theme 1"
+msgstr ""
+
+#: redux-framework/option.php:323
+msgid "Color Theme 2"
+msgstr ""
+
+#: redux-framework/option.php:330
+msgid "Color Theme 3"
+msgstr ""
+
+#: redux-framework/option.php:336
+msgid "Color Theme 4"
+msgstr ""
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:20
+#, php-format
+msgctxt "comments title"
+msgid "%s Comments"
+msgstr ""
+
+#. %s: post title
+#: comments.php:16
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr ""
+
+#. Name of the theme
+msgid "Consbie"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Consbie is a modern and clean Premium WooCommerce Theme with a focus on a "
+"smooth and great user experience. It provides some unique tools and features "
+"which will make your eCommerce website stand out from the crowd."
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon:"
+msgstr ""
+
+#: inc/custom_menu.php:220
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:154
+msgid "demo text"
+msgstr ""
+
+#: redux-framework/option.php:322
+msgid "Description color of the site."
+msgstr ""
+
+#: redux-framework/option.php:418
+msgid "Developers Code"
+msgstr ""
+
+#: template-parts/content/content-projects.php:26
+msgid "DISCOVER PROJECT"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:239
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:28
+msgid "Displays an image gallery."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:252
+msgid "Do not show author?"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:266
+msgid "Do not show button read more?"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:259
+msgid "Do not show content?"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:220
+msgid "Do not show hide_thumbnail?"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:245
+msgid "Do not show title?"
+msgstr ""
+
+#: redux-framework/option.php:429
+msgid "Documentation"
+msgstr ""
+
+#: inc/post_type/team.php:68 inc/post_type/services.php:68
+#: inc/post_type/studies.php:68
+msgid "Edit Category"
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:36
+msgid "Edit Gallery"
+msgstr ""
+
+#: inc/post_type/team.php:16 inc/post_type/services.php:16
+#: inc/post_type/studies.php:16
+msgid "Edit Item"
+msgstr ""
+
+#: inc/custom_menu.php:174 inc/custom_menu.php:176
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/post_type/team.php:99 inc/post_type/services.php:99
+#: inc/post_type/studies.php:99
+msgid "Edit Tag"
+msgstr ""
+
+#: redux-framework/option.php:258
+msgid "Enable Less"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+#: woocommerce/myaccount/form-login.php:81
+msgid "enter username and password to login"
+msgstr ""
+
+#: inc/presets.php:125
+msgid "error write content"
+msgstr ""
+
+#: redux-framework/option.php:329
+msgid "Excerpt color of the site."
+msgstr ""
+
+#: redux-framework/option.php:265
+msgid "Favicon"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:68
+msgid "flaticon"
+msgstr ""
+
+#: redux-framework/option.php:401
+msgid "Font 1"
+msgstr ""
+
+#: redux-framework/option.php:379
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:24
+msgid "Forms?"
+msgstr ""
+
+#: redux-framework/option.php:420
+msgid ""
+"Functions for developers, Function used to edit code. You should turn off "
+"the feature so when using theme"
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:27
+msgid "Gallery"
+msgstr ""
+
+#: redux-framework/option.php:250
+msgid "General"
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:192 inc/widgets/widget_gallery.php:194
+msgid "gla"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Good"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:44
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:50
+msgid "Header Sticky Offset Top"
+msgstr ""
+
+#: cmb2/meta_option.php:85
+msgid "Hidden Header Footer Deafault"
+msgstr ""
+
+#: inc/custom_menu.php:507 inc/template-functions.php:344
+msgid "Hot"
+msgstr ""
+
+#. URI of the theme
+msgid "http://consbie.jwsthemeswp.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://jwsuperthemes.com"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:78
+#: inc/vc_shortcode/backend/file/account.php:67
+#: inc/vc_shortcode/backend/file/account.php:82
+#: inc/vc_shortcode/backend/file/account.php:121
+#: inc/vc_shortcode/backend/file/account.php:136
+#: inc/vc_shortcode/backend/file/account.php:186
+#: inc/vc_shortcode/backend/file/account.php:201
+#: inc/vc_shortcode/backend/file/account.php:239
+#: inc/vc_shortcode/backend/file/account.php:254
+msgid "Icon"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:52
+msgid "If header has offset top please check here."
+msgstr ""
+
+#: cmb2/meta_option.php:26
+msgid "Info {#}"
+msgstr ""
+
+#: 404.php:24 template-parts/content/content-none.php:11
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#: comments.php:78
+msgid "Leave A Reply "
+msgstr ""
+
+#: comments.php:79
+#, php-format
+msgid "Leave A Reply  %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/custom_menu.php:284
+msgid "Left"
+msgstr ""
+
+#: inc/presets.php:138
+#, php-format
+msgid "lessphp fatal error:  %s"
+msgstr ""
+
+#: inc/custom_menu.php:229
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: cmb2/meta_option.php:23
+msgid "List Info Projects"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:19
+msgid ""
+"List of your site&#8217;s most recent posts, with clickable title and "
+"thumbnails."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:24
+msgid "Login &amp; Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Login to our site"
+msgstr ""
+
+#: redux-framework/option.php:273
+msgid "Logo"
+msgstr ""
+
+#: redux-framework/option.php:280
+msgid "Logo Text"
+msgstr ""
+
+#: inc/custom_menu.php:521
+msgid "logo_menu"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:63
+msgid "Lost your password?"
+msgstr ""
+
+#: redux-framework/option.php:302
+msgid "Main Color"
+msgstr ""
+
+#: redux-framework/option.php:301
+msgid "Main color of the site."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:253
+msgid "Make sure you set a default author for posts without a tille."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:267
+msgid "Make sure you set a default button for posts without a button."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:260
+msgid "Make sure you set a default content for posts without a content."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:221
+msgid "Make sure you set a default thumbnail for posts without a tille."
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:246
+msgid "Make sure you set a default title for posts without a tille."
+msgstr ""
+
+#: inc/custom_menu.php:262
+msgid "Mega Dropdown"
+msgstr ""
+
+#: inc/custom_menu.php:263
+msgid "Mega Full Width Dropdown"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:231
+#: inc/vc_shortcode/backend/file/account.php:246
+#: inc/vc_shortcode/backend/file/account.php:262
+#: inc/vc_shortcode/backend/file/account.php:275
+#: inc/vc_shortcode/backend/file/account.php:287
+msgid "Menu"
+msgstr ""
+
+#: inc/custom_menu.php:171
+msgid "Move down"
+msgstr ""
+
+#: inc/custom_menu.php:157
+msgid "Move up"
+msgstr ""
+
+#: inc/custom_menu.php:195
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/custom_menu.php:513 inc/template-functions.php:348
+msgid "New"
+msgstr ""
+
+#: inc/post_type/team.php:71 inc/post_type/services.php:71
+#: inc/post_type/studies.php:71
+msgid "New Category"
+msgstr ""
+
+#: inc/post_type/team.php:102 inc/post_type/services.php:102
+#: inc/post_type/studies.php:102
+msgid "New Tag Name"
+msgstr ""
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:33
+msgid "No images selected"
+msgstr ""
+
+#: template-parts/single/blogs/layout1.php:45
+#: template-parts/single/blogs/layout2.php:45
+msgid "No Tags"
+msgstr ""
+
+#: inc/post_type/team.php:19 inc/post_type/services.php:19
+#: inc/post_type/studies.php:19
+msgid "Not found"
+msgstr ""
+
+#: inc/post_type/team.php:20 inc/post_type/services.php:20
+#: inc/post_type/studies.php:20
+msgid "Not found in Trash"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Not that bad"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:231
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:32
+msgid "Number Parallax"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/custom_menu.php:215
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/custom_menu.php:327
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: template-parts/content/content-page.php:22
+#: template-parts/single/blogs/layout1.php:26
+#: template-parts/single/blogs/layout2.php:26
+msgid "Pages:"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:38
+msgid "Parallax background"
+msgstr ""
+
+#: inc/post_type/team.php:66 inc/post_type/team.php:67
+#: inc/post_type/services.php:66 inc/post_type/services.php:67
+#: inc/post_type/studies.php:66 inc/post_type/studies.php:67
+msgid "Parent Category"
+msgstr ""
+
+#: inc/post_type/team.php:11 inc/post_type/services.php:11
+#: inc/post_type/studies.php:11
+msgid "Parent Item:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Perfect"
+msgstr ""
+
+#: inc/quickview/product-image.php:42
+msgid "Placeholder"
+msgstr ""
+
+#: comments.php:98 woocommerce/single-product-reviews.php:99
+msgctxt "placeholder"
+msgid "Comment"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:97
+msgctxt "placeholder"
+msgid "email address (required)"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+#: woocommerce/myaccount/form-login.php:103
+msgctxt "placeholder"
+msgid "password (required)"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search Keyword......"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:47
+#: woocommerce/myaccount/form-login.php:91
+msgctxt "placeholder"
+msgid "username (required)"
+msgstr ""
+
+#: comments.php:71 woocommerce/single-product-reviews.php:77
+msgctxt "placeholder"
+msgid "Your Mail (required)"
+msgstr ""
+
+#: comments.php:69 woocommerce/single-product-reviews.php:76
+msgctxt "placeholder"
+msgid "Your Name (required)"
+msgstr ""
+
+#: inc/post_type/services.php:64
+msgid "Popular services Categories"
+msgstr ""
+
+#: inc/post_type/studies.php:64
+msgid "Popular studies Categories"
+msgstr ""
+
+#: inc/post_type/team.php:95 inc/post_type/services.php:95
+#: inc/post_type/studies.php:95
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/post_type/team.php:64
+msgid "Popular teams Categories"
+msgstr ""
+
+#: inc/post_type/services.php:8
+msgctxt "Post Type General Name"
+msgid "services"
+msgstr ""
+
+#: inc/post_type/studies.php:8
+msgctxt "Post Type General Name"
+msgid "studies"
+msgstr ""
+
+#: inc/post_type/team.php:8
+msgctxt "Post Type General Name"
+msgid "teams"
+msgstr ""
+
+#: inc/post_type/services.php:9
+msgctxt "Post Type Singular Name"
+msgid "services"
+msgstr ""
+
+#: inc/post_type/studies.php:9
+msgctxt "Post Type Singular Name"
+msgid "studies"
+msgstr ""
+
+#: inc/post_type/team.php:9
+msgctxt "Post Type Singular Name"
+msgid "teams"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30 woocommerce/cart/cart.php:93
+msgid "Price"
+msgstr ""
+
+#: functions.php:63
+msgid "Primary Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:73
+#: woocommerce/checkout/review-order.php:22
+msgid "Product"
+msgstr ""
+
+#: redux-framework/option.php:358
+msgid "Product Per Page"
+msgstr ""
+
+#: cmb2/meta_option.php:64
+msgid "Product Setting"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:99
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Rate&hellip;"
+msgstr ""
+
+#: template-parts/content/content.php:30
+msgid "READ MORE"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:147
+msgid "Read More"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:116
+msgid "Register Now"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Register Your Account"
+msgstr ""
+
+#: inc/template-functions.php:130
+msgid "Related Articles"
+msgstr ""
+
+#: woocommerce/single-product/related.php:26
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:57
+msgid "Remember me"
+msgstr ""
+
+#: inc/custom_menu.php:340
+msgid "Remove"
+msgstr ""
+
+#: cmb2/meta_option.php:28
+msgid "Remove Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:54
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:35
+msgid "Reviews"
+msgstr ""
+
+#: inc/custom_menu.php:285
+msgid "Right"
+msgstr ""
+
+#: inc/custom_menu.php:510 inc/template-functions.php:335
+msgid "Sale"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:59
+#: inc/vc_shortcode/backend/file/account.php:74
+#: inc/vc_shortcode/backend/file/account.php:90
+msgid "Search"
+msgstr ""
+
+#: inc/post_type/team.php:63 inc/post_type/services.php:63
+#: inc/post_type/studies.php:63
+msgid "Search Categories"
+msgstr ""
+
+#: inc/post_type/team.php:18 inc/post_type/services.php:18
+#: inc/post_type/studies.php:18
+msgid "Search Item"
+msgstr ""
+
+#: inc/post_type/team.php:94 inc/post_type/services.php:94
+#: inc/post_type/studies.php:94
+msgid "Search Tags"
+msgstr ""
+
+#: redux-framework/option.php:548
+msgid "Section via hook"
+msgstr ""
+
+#: redux-framework/option.php:364
+msgid "Select Columns"
+msgstr ""
+
+#: cmb2/meta_option.php:35
+msgid "Select Font Awesome Icon"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:20
+msgid "Select font family"
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:21
+msgid "Select font styling"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:73
+#: inc/vc_shortcode/backend/file/account.php:89
+#: inc/vc_shortcode/backend/file/account.php:127
+#: inc/vc_shortcode/backend/file/account.php:143
+#: inc/vc_shortcode/backend/file/account.php:192
+#: inc/vc_shortcode/backend/file/account.php:208
+#: inc/vc_shortcode/backend/file/account.php:245
+#: inc/vc_shortcode/backend/file/account.php:261
+msgid "Select icon from library."
+msgstr ""
+
+#: redux-framework/option.php:346
+msgid "Select Layout For 404 Page."
+msgstr ""
+
+#: inc/post_type/team.php:103 inc/post_type/services.php:103
+#: inc/post_type/studies.php:103
+msgid "Separate tags with commas"
+msgstr ""
+
+#: inc/post_type/services.php:10
+msgid "Services"
+msgstr ""
+
+#: inc/post_type/services.php:24
+msgid "services"
+msgstr ""
+
+#: redux-framework/option.php:400
+msgid "Set font family for heading... extend class \"font1. Font Montserrat\""
+msgstr ""
+
+#: template-parts/single/projects/layout1.php:65
+#: template-parts/single/projects/layout5.php:33
+msgid "SHARE PROJECT"
+msgstr ""
+
+#: redux-framework/option.php:344
+msgid "Shop"
+msgstr ""
+
+#: redux-framework/option.php:351
+msgid "Shop Page"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:24
+msgid "Show Account"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:11
+msgid "Show account,search,cart for header."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:27
+msgid "Show Account."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:32
+msgid "Show Cart"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:35
+msgid "Show Cart."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:40
+msgid "Show Menu Click"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:271
+msgid "Show Menu Fix"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:274
+msgid "Show Menu Fix Show When Click."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:43
+msgid "Show Menu When Click."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:16
+msgid "Show Search"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:19
+msgid "Show search."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:60
+msgid "Sign in"
+msgstr ""
+
+#: inc/template-functions.php:340
+msgid "Sold out"
+msgstr ""
+
+#: redux-framework/option.php:386
+msgid "Specify the body font properties."
+msgstr ""
+
+#: inc/custom_menu.php:261
+msgid "Standard Dropdown"
+msgstr ""
+
+#: inc/post_type/studies.php:10
+msgid "Studies"
+msgstr ""
+
+#: inc/post_type/studies.php:24
+msgid "studies"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Submit"
+msgstr ""
+
+#: comments.php:81
+msgid "SUBMIT NOW"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:56
+msgid "Subtotal"
+msgstr ""
+
+#: inc/post_type/team.php:93 inc/post_type/services.php:93
+#: inc/post_type/studies.php:93
+msgid "Tag"
+msgstr ""
+
+#: inc/post_type/team.php:92 inc/post_type/team.php:106
+#: inc/post_type/services.php:92 inc/post_type/services.php:106
+#: inc/post_type/studies.php:92 inc/post_type/studies.php:106
+msgid "Tags"
+msgstr ""
+
+#: template-parts/single/blogs/layout1.php:38
+#: template-parts/single/blogs/layout1.php:43
+#: template-parts/single/blogs/layout2.php:38
+#: template-parts/single/blogs/layout2.php:43
+msgid "Tags:"
+msgstr ""
+
+#: inc/post_type/services.php:61
+msgctxt "Taxonomy plural name"
+msgid "services Categories"
+msgstr ""
+
+#: inc/post_type/studies.php:61
+msgctxt "Taxonomy plural name"
+msgid "studies Categories"
+msgstr ""
+
+#: inc/post_type/team.php:61
+msgctxt "Taxonomy plural name"
+msgid "teams Categories"
+msgstr ""
+
+#: inc/post_type/services.php:62
+msgctxt "Taxonomy singular name"
+msgid "services Category"
+msgstr ""
+
+#: inc/post_type/studies.php:62
+msgctxt "Taxonomy singular name"
+msgid "studies Category"
+msgstr ""
+
+#: inc/post_type/team.php:62
+msgctxt "Taxonomy singular name"
+msgid "teams Category"
+msgstr ""
+
+#: inc/post_type/team.php:10
+msgid "Teams"
+msgstr ""
+
+#: inc/post_type/team.php:24
+msgid "teams"
+msgstr ""
+
+#: cmb2/meta_option.php:14
+msgid "Teams Setting"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:152
+msgid "Text Account"
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:155
+msgid "Text For Account."
+msgstr ""
+
+#: inc/vc_shortcode/backend/file/account.php:288
+msgid "The description"
+msgstr ""
+
+#: inc/custom_menu.php:243
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#. Author of the theme
+msgid "the JWSThemes team"
+msgstr ""
+
+#: redux-framework/option.php:232
+msgid "Theme Information 1"
+msgstr ""
+
+#: redux-framework/option.php:237
+msgid "Theme Information 2"
+msgstr ""
+
+#: redux-framework/option.php:77 redux-framework/option.php:78
+msgid "Theme Setting"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:57
+msgid "There are no reviews yet."
+msgstr ""
+
+#: redux-framework/option.php:289
+msgid "These are really color fields!"
+msgstr ""
+
+#: inc/custom_menu.php:204
+msgid "Title Attribute"
+msgstr ""
+
+#: redux-framework/option.php:315
+msgid "Title color of the site."
+msgstr ""
+
+#: inc/widgets/widget_gallery.php:57
+msgid "Title for the widget"
+msgstr ""
+
+#: inc/widgets/widget_post_thumbnail.php:225
+msgid "Title:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:117
+#: woocommerce/checkout/review-order.php:23
+#: woocommerce/checkout/review-order.php:109
+msgid "Total"
+msgstr ""
+
+#: redux-framework/option.php:377
+msgid "Typography"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Update cart"
+msgstr ""
+
+#: inc/post_type/team.php:69 inc/post_type/services.php:69
+#: inc/post_type/studies.php:69
+msgid "Update Category"
+msgstr ""
+
+#: inc/post_type/team.php:17 inc/post_type/services.php:17
+#: inc/post_type/studies.php:17
+msgid "Update Item"
+msgstr ""
+
+#: inc/post_type/team.php:100 inc/post_type/services.php:100
+#: inc/post_type/studies.php:100
+msgid "Update Tag"
+msgstr ""
+
+#: redux-framework/option.php:267
+msgid "Upload your favicon"
+msgstr ""
+
+#: redux-framework/option.php:275
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/custom_menu.php:185
+msgid "URL"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Very poor"
+msgstr ""
+
+#: inc/post_type/team.php:13 inc/post_type/services.php:13
+#: inc/post_type/studies.php:13
+msgid "View Item"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:25
+msgid ""
+"We believe that every great design begins with a conversation.  Contact us "
+"to start the discussion around your residential, commercial, or marine space."
+msgstr ""
+
+#: inc/vc_shortcode/backend/include.php:40
+#: inc/vc_shortcode/backend/include.php:46
+#: inc/vc_shortcode/backend/include.php:53
+msgid "Yes, please"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: inc/template-functions.php:190
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:58
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Your rating"
+msgstr ""

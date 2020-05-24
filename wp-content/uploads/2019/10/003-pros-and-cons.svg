@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 496 496" style="enable-background:new 0 0 496 496;" xml:space="preserve" width="512" height="512" class="hovered-paths"><g><circle style="fill:#488AF9" cx="104" cy="136" r="64" data-original="#F9BA48" class="hovered-path active-path" data-old_color="#F9BA48"></circle><g>
+	<path style="fill:#333333;" d="M432,0.12L68,0C30.504,0,0,30.504,0,68v428h376V172.28l16.576-11.048L424,176.944l32-16l40,20V68   C496,31.848,467.64,2.192,432,0.12z M360,68v412H16V68c0-28.672,23.328-52,52-52h316.224C369.424,28.488,360,47.168,360,68z    M480,155.056l-24-12l-32,16l-32.576-16.288L376,153.056V68c0-28.672,23.328-52,52-52s52,23.328,52,52V155.056z" data-original="#333333" class=""></path>
+	<polygon style="fill:#333333;" points="237.656,173.656 272,139.312 306.344,173.656 317.656,162.344 283.312,128 317.656,93.656    306.344,82.344 272,116.688 237.656,82.344 226.344,93.656 260.688,128 226.344,162.344  " data-original="#333333" class=""></polygon>
+	<polygon style="fill:#333333;" points="149.976,101.312 138.024,90.688 80.904,154.936 70.656,139.56 57.344,148.44    79.096,181.064  " data-original="#333333" class=""></polygon>
+	<rect x="40" y="200" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="40" y="240" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="40" y="280" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="40" y="320" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="40" y="360" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="40" y="400" style="fill:#333333;" width="64" height="16" data-original="#333333" class=""></rect>
+	<rect x="208" y="200" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="208" y="240" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="208" y="280" style="fill:#333333;" width="128" height="16" data-original="#333333" class=""></rect>
+	<rect x="208" y="320" style="fill:#333333;" width="96" height="16" data-original="#333333" class=""></rect>
+</g></g> </svg>

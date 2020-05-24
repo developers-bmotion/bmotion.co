@@ -1,0 +1,36 @@
+/*
+Theme Name: Consbie Child
+Theme URI: http://consbie.jwsuperthemes.com
+Template: consbie
+Author: the JWSThemes team
+Author URI: https://jwsuperthemes.com
+Description: Consbie is a modern and clean Premium WooCommerce Theme with a focus on a smooth and great user experience. It provides some unique tools and features which will make your eCommerce website stand out from the crowd.
+Tags: one-column,flexible-header,accessibility-ready,custom-colors,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,rtl-language-support,sticky-post,threaded-comments,translation-ready
+Version: 1.0.0
+Updated: 2020-03-05 01:53:58
+*/
+
+.wpcf7-submit {
+    padding: 5px 40px !important;
+    border-radius: 100px !important;
+    font-weight: 600 !important;
+}
+
+.wpcf7 .wpcf7-form-control-wrap .wpcf7-text {
+    height: 40px;
+    padding-left: 20px;
+}
+
+.wpcf7 .wpcf7-form-control-wrap .wpcf7-textarea {
+    height: 120px;
+    padding-top: 10px;
+    padding-left: 20px !important;
+}
+
+.footer-home2 .latest-new-footer .elementor-post:hover .post-title {
+    color: #f6ab00 !important;
+}
+
+.call-back-home5 input:focus, .call-back-home5 select:focus, .call-back-home5 textarea:focus {
+    border-bottom: 1px solid #f6ab00 !important;
+}

@@ -1,0 +1,16 @@
+2020-02-24T02:43:07+00:00 CRITICAL Uncaught Error: Call to undefined function ElementorHelloWorld\Widgets\JwsCustom\the_permalik() in /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php:1007
+Stack trace:
+#0 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php(1064): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render_thumbnail()
+#1 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php(981): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render_team()
+#2 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor/includes/base/widget-base.php(448): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render()
+#3 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor/includes/base/widget-base.php(578): Elementor\Widget_Base->render_content()
+#4 /home/sevenwpt/public_html/general02/con in /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php on line 1007
+
+2020-02-24T02:43:13+00:00 CRITICAL Uncaught Error: Call to undefined function ElementorHelloWorld\Widgets\JwsCustom\the_permalik() in /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php:1007
+Stack trace:
+#0 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php(1064): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render_thumbnail()
+#1 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php(981): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render_team()
+#2 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor/includes/base/widget-base.php(448): ElementorHelloWorld\Widgets\JwsCustom\JwsTeams->render()
+#3 /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor/includes/base/widget-base.php(578): Elementor\Widget_Base->render_content()
+#4 /home/sevenwpt/public_html/general02/con in /home/sevenwpt/public_html/general02/consbie/wp-content/plugins/elementor-hello-world-master/widgets/jws-custom/jws-slide-team.php on line 1007
+

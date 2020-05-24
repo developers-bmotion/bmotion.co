@@ -1,0 +1,121 @@
+
+---Downloaded files---
+The import files for: Import Architecture were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/contents.xml
+Widget file = C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/widgets.wie
+Customizer file = not defined!
+Redux files:
+jws_option -> C:\xampp\htdocs\wordpress\wp-content\plugins\bouwer-core/import/arc/redux.json 
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Comtemporary
+[WARNING] Failed to import product_tag Interior
+[WARNING] Failed to import "
+				Cordless Saw		": Invalid post type product
+
+
+---Importing widgets---
+Bouwer Sidebar : 
+
+Gallery - GALLERY IMAGES - Imported
+Categories - CATEGORIES - Imported
+Tag Cloud - TAGS - Imported
+Text - ABOUT AUTHOR - Imported
+Text - QUICK LINKS - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: jws_option finished successfully!
+
+---pt-ocdi/after_import---
+
